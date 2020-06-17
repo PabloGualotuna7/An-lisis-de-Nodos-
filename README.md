@@ -100,7 +100,7 @@ Circuito Elécrtico con mediciones realizado en Proteus
 
 | Nodo| Resultados Analíticos | Resultados Experimentales| Resultados Simulados|
 | --    |                 ---- |-------------             |----------------      |
-| A |                   2.82V| 2.82V                   |2.82V              |
+| A |                   2.81V| 2.82V                   |2.82V              |
 |B  |                   4.80V |4.80V                    |4.80V               |              
 |C  |                   0V   | 0V                   |0V                 |
 

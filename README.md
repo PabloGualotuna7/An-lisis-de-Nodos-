@@ -52,7 +52,7 @@ Circuito Eléctrico
 
 ![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/%7B82D5275B-6BA9-4C7B-886A-C33CDF6B8261%7D.png.jpg)
 
-Descripción del circuito.
+Descripción del circuito
 
 * En el diagrama se observa dos fuentes voltajes independientes, conectadas a los extremos del circuito.
 * Además, dentro del circuito se aprecia 5 resistencias medidas en kOhms

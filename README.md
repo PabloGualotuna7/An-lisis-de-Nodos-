@@ -52,7 +52,7 @@ g. Resuelva el sistema de ecuaciones simultáneas para cada tensión desconocida
 
 Circuito Eléctrico
 
-![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/%7B82D5275B-6BA9-4C7B-886A-C33CDF6B8261%7D.png.jpg)
+![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/Diagrama.jpg)
 
 Descripción del circuito
 

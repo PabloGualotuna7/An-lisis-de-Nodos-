@@ -114,6 +114,8 @@ Circuito Elécrtico con mediciones realizado en Proteus
 
 * Se recomienda cambiar el color de los cables a rojo y negro para de esta manera identificar cuales son positivos o negativos y no crear una confusión a la hora de conectar el circuito.
 
+* Recomendamos una vez obtenido el sistema de ecuaciones relacionado al voltaje en cada nodo, utilizar el método de sustitución para resolver dicho sistema, ya que al no ser un sistema tan complejo se puede resolver facilmente, en caso contrario usar un software que desarrolle el sistema encotrado.
+
 10. CRONOGRAMA
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.

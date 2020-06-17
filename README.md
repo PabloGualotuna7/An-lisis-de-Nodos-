@@ -40,11 +40,12 @@ El análisis de mallas es una técnica empleada para resolver circuitos eléctri
 
 Pasos a seguir en un análisis por mallas:
 
-* Paso 1. Asignar una corriente de malla a cada malla (sentido cualquiera) y asignar una polarización a cada elemento del circuito.
-* Paso 2. Establecemos un sentido de circulación siguiendo el cual aplicamos KVL a cada malla. Tendremos tantas ecuaciones como mallas.
-* Paso 3. Usamos las relaciones V/I (Ley de Ohm) para expresar las tensiones en función de las corrientes en las ecuaciones de 2.
-* Paso 4. Sustituimos las ecuaciones del paso 3 en 2.
-* Paso 5. Obtenemos las corrientes de malla.
+* Paso 1. Localice los segmentos de cable conectados al circuito. Estos serán los nodos que se usarán para el método.
+* Paso 2. Seleccione un nodo de referencia (tierra). Se puede elegir cualquier nodo ya que esto no afecta para nada los cálculos; pero             elegir el nodo con más conexiones podría simplificar el análisis.
+* Paso 3. Identifique los nodos que están conectados a fuentes de voltaje que tengan una terminal en el nodo de referencia. En estos               nodos la fuente define la tensión del nodo. Si la fuente es independiente, la tensión del nodo es conocida. En estos nodos no           se aplica la LCK.
+* Paso 4. Asigne una variable para los nodos que tengan tensiones desconocidas. Si la tensión del nodo ya se conoce, no es necesario               asignarle una variable.
+* Paso 5. Para cada uno de los nodos, se plantean las ecuaciones de acuerdo con las Leyes de Kirchhoff. Básicamente, sume todas las               corrientes que entran o salen por el nodo e iguálelas a 0. Si el número de nodos es n, el número de ecuaciones será por lo               menos n-1 porque siempre se escoge un nodo de referencia al cual no se le elabora ecuación.
+* Paso 6. Resuelva el sistema de ecuaciones simultáneas para cada tensión desconocida.
 
 4. DIAGRAMAS
 
@@ -55,10 +56,9 @@ Circuito Eléctrico
 Descripción del circuito.
 
 * En el diagrama se observa dos fuentes voltajes independientes, conectadas a los extremos del circuito.
-* Además, dentro del circuito se aprecia 5 resistencias medidas en kOhms
-* Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la práctica reconocemos 3 nodos principales.
-* Se tiene que la resistencia de 0.82 KOhm forma nodo con las resistencias de 1,2 KOhm y 1 KOhm. La resistencia de 1.2 KOhm forma un nodo con las resistencias de 0.39 KOhm y 2.2 kohm. Como nodo de referencia o tierra es toda la sección de abajo del circuito eléctrico.
-* En el caso de este circuito eléctrico identificamos 3 mallas, colocando una intensidad en cada malla denotándolas como I1, I2, I3 todas en sentido de las manecillas del reloj.
+* Además, dentro del circuito se aprecia 4 resistencias medidas en kOhms y una en ohms.
+* Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la práctica reconocemos 3 nodos principales donde tenemos 3 diferentes voltajes 
+* Se tiene que la resistencia de 1.8 KOhm forma nodo con las resistencias de 2.2 KOhm y 470 Ohm. La resistencia de 2.2 KOhm forma un nodo con las resistencias de 3.9 KOhm y 1.5 kOhm. Como nodo de referencia o tierra es toda la sección de abajo del circuito eléctrico.
 
 Circuito Eléctrico hecho en Tinkercad
 

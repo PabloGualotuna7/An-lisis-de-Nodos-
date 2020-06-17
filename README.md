@@ -2,7 +2,7 @@
 
 1. PLANTEAMIENTO DEL PROBLEMA 
 
-El análisis de nodos facilitan un faicl uso para tratar con los circuitos eléctricos, donde se afirma que la suma de las corrientes que entran en un nodo es igual a las que salen, a partir de la teoría fundamental de circuitos eleéctricos, se plantean las preguntas de esta práctica de laboratorio ¿Cómo se comporta en realidad la corriente eléctrica en los nodos? ¿Qué relaciones hay entre el voltaje y la corriente en un circuito complejo, con varias fuentes?
+El análisis de nodos facilitan un facil uso para tratar con los circuitos eléctricos, donde se afirma que la suma de las corrientes que entran en un nodo es igual a las que salen, a partir de la teoría fundamental de circuitos eleéctricos, se plantean las preguntas de esta práctica de laboratorio ¿Cómo se comporta en realidad la corriente eléctrica en los nodos? ¿Qué relaciones hay entre el voltaje y la corriente en un circuito complejo, con varias fuentes?
 
 2. OBJETIVOS
 

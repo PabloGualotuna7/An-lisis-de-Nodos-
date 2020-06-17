@@ -1,8 +1,8 @@
-# Análisis de Nodos 
+# ANALISIS DE NODOS
 
 1. PLANTEAMIENTO DEL PROBLEMA 
 
-En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos, estudiaremos el análisis de las mallas en los circuitos eléctricos para tener una facilidad en la aplicación y resolución de ejercicios. Así como también podemos comparar los resultados calculados frente a los medidos con el programa TINKERCAD (laboratorio virutal), mediante la resolución del circuito eléctrico planteado en la guía entregada por el docente.
+El análisis de nodos facilitan un faicl uso para tratar con los circuitos eléctricos, donde se afirma que la suma de las corrientes que entran en un nodo es igual a las que salen, a partir de la teoría fundamental de circuitos eleéctricos, se plantean las preguntas de esta práctica de laboratorio ¿Cómo se comporta en realidad la corriente eléctrica en los nodos? ¿Qué relaciones hay entre el voltaje y la corriente en un circuito complejo, con varias fuentes?
 
 2. OBJETIVOS
 

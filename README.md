@@ -66,7 +66,7 @@ Circuito Eléctrico hecho en Tinkercad
 
 Circuito Elécrtico con mediciones realizado en Proteus 
 
-![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Circuito_Proteus.png)
+![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/Circuito_Proteus.png)
 
 5. LISTAS DE COMPONENTES
 

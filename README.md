@@ -109,9 +109,10 @@ Circuito Elécrtico con mediciones realizado en Proteus
 * Este método nos facilitó encontrar los voltajes que pueden encontrarse en el nodo y así nos podrá ayudar para encontrar la corriente que pase por las resistencias.
 
 
+
 9. RECOMENDACIONES 
 
-* Para facilitar el proceso analítico, una vez obtenidas las ecuaciones que relacionen los voltajes en cada nodo, el metédo mas facil es el de sustitución ya que al no ser un sistema tan largo no complejo se puede usar facilmente, Si por el contrario se lleguase a complicar se recomienda usar un software para resolver dicho sistema de ecuaciones.
+* Se recomienda cambiar el color de los cables a rojo y negro para de esta manera identificar cuales son positivos o negativos y no crear una confusión a la hora de conectar el circuito.
 
 10. CRONOGRAMA
 

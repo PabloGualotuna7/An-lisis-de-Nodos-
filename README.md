@@ -19,6 +19,8 @@ El análisis de nodos es posible cuando todos los nodos tienen conductancia. Est
 
 En ingeniería eléctrica y electrónica, un nodo es un punto donde dos o más componentes tienen una conexión común. Corresponde a una unión de alambres hechos de material conductor que poseen una resistencia eléctrica cercana a 0.
 
+![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/nodo.png)
+
 ¿En qué consiste el método de nodos?
 
 El método de los voltajes de nodos consiste en determinar los voltajes en los nodos (puntos de intercepción de las ramas de un circuito eléctrico), y luego calcular las corrientes en las ramas. Se fundamenta en la Ley de Kirchhoff de corrientes, la cual plantea que las cargas no se pueden acumular en ningún nodo, y en la Ley de Ohm.

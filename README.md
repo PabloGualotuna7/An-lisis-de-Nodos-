@@ -111,7 +111,7 @@ Circuito Elécrtico con mediciones realizado en Proteus
 
 9. RECOMENDACIONES 
 
-
+* Para facilitar el proceso analítico, una vez obtenidas las ecuaciones que relacionen los voltajes en cada nodo, el metédo mas facil es el de sustitución ya que al no ser un sistema tan largo no complejo se puede usar facilmente, Si por el contrario se lleguase a complicar se recomienda usar un software para resolver dicho sistema de ecuaciones.
 
 10. CRONOGRAMA
 

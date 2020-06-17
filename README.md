@@ -80,15 +80,15 @@ Circuito Elécrtico con mediciones realizado en Proteus
 
 * Seleccionamos una placa de pruebas pequeñas (Protoboard).
 
-* Se selecciona y se conecta al protoboard los suministros de energía asignándole el valor de 5 y 18 V.
+* Se selecciona y se conecta al protoboard los suministros de energía asignándole el valor de 12 y 8 V.
 
-* Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son 5 de valores de 820 Ohm, 1.2k Ohm, 390 Ohm, 1K Ohm y 2.2k Ohm.
+* Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la práctica, que en este caso son 5 de valores de 1.8 KOhm, 0.47 KOhm, 2.2 KOhm, 3.9 KOhm y 1.5 KOhm.
 
 * Haciendo clic izquierdo en los pines del protoboard conectamos con cables las resistencias y pasamos corriente a donde haga falta.
 
-* Colocamos un multímetro y cambiamos la configuración del multímetro en amperaje y conectamos en serie con el circuito, el color negro es el negativo mientras que el color rojo es el positivo. 
+* Colocamos un multímetro y cambiamos la configuración del multímetro en volatje y conectamos en paralelo con el circuito, el color negro es el negativo mientras que el color rojo es el positivo. 
 
-* Realizamos las mediciones de corriente pedidas en la guía.
+* Realizamos las mediciones de volatje en cada nodo pedidas en la guía.
 
 * Anotamos los valores obtenidos en las tablas de la guía de laboratorio.
 

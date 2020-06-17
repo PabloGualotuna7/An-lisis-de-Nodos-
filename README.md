@@ -21,6 +21,9 @@ En ingeniería eléctrica y electrónica, un nodo es un punto donde dos o más c
 
 ![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/nodo.png)
 
+Fig 1 .La corriente que entra a un nodo es igual a la corriente que sale del mismo. i1 + i4 = i2 + i3
+
+
 ¿En qué consiste el método de nodos?
 
 El método de los voltajes de nodos consiste en determinar los voltajes en los nodos (puntos de intercepción de las ramas de un circuito eléctrico), y luego calcular las corrientes en las ramas. Se fundamenta en la Ley de Kirchhoff de corrientes, la cual plantea que las cargas no se pueden acumular en ningún nodo, y en la Ley de Ohm.

@@ -62,7 +62,7 @@ Descripción del circuito
 
 Circuito Eléctrico hecho en Tinkercad
 
-![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Circuito_Armado.png)
+![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/Circuito%20armado%20.jpg)
 
 Circuito Elécrtico con mediciones realizado en Proteus 
 
@@ -70,7 +70,7 @@ Circuito Elécrtico con mediciones realizado en Proteus
 
 5. LISTAS DE COMPONENTES
 
-![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Componentes.png)
+![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/componentes%20.jpg)
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 

@@ -1,4 +1,4 @@
-# ANÁLISIS DE NODOS
+# ANALISIS DE NODOS
 
 1. PLANTEAMIENTO DEL PROBLEMA 
 
@@ -55,10 +55,10 @@ Circuito Eléctrico
 Descripción del circuito
 
 * En el diagrama se observa dos fuentes voltajes independientes, conectadas a los extremos del circuito.
-* Además, dentro del circuito se aprecia 5 resistencias medidas en kOhms
+* Además, dentro del circuito se aprecia 5 resistencias medidas en KOhms
 * Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la práctica reconocemos 3 nodos principales.
-* Se tiene que la resistencia de 0.82 KOhm forma nodo con las resistencias de 1,2 KOhm y 1 KOhm. La resistencia de 1.2 KOhm forma un nodo con las resistencias de 0.39 KOhm y 2.2 kohm. Como nodo de referencia o tierra es toda la sección de abajo del circuito eléctrico.
-* En el caso de este circuito eléctrico identificamos 3 mallas, colocando una intensidad en cada malla denotándolas como I1, I2, I3 todas en sentido de las manecillas del reloj.
+* Se tiene que la resistencia de 1,8 KOhm forma nodo con las resistencias de 47 Ohm y 2.2 KOhm. La resistencia de 2.2 KOhm forma un nodo con las resistencias de 3.9 KOhm y 1.5 KOhm. Como nodo de referencia o tierra es toda la sección de abajo del circuito eléctrico.
+* Ademas se puede identificcar 3 mallas, colocando una intensidad en cada malla denotándolas como I1, I2, I3 todas en sentido de las manecillas del reloj.
 
 Circuito Eléctrico hecho en Tinkercad
 

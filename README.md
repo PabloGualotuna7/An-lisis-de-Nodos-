@@ -50,7 +50,7 @@ Pasos a seguir en un análisis por mallas:
 
 Circuito Eléctrico
 
-![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/DIAGRAMA_2.jpg)
+![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/%7B82D5275B-6BA9-4C7B-886A-C33CDF6B8261%7D.png.jpg)
 
 Descripción del circuito.
 

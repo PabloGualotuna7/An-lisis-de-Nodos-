@@ -122,7 +122,7 @@ Circuito Elécrtico con mediciones realizado en Proteus
 
 Actividades desarrolladas a lo largo de la practica de laboratorio.
 
-![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Cronograma.png)
+![](https://github.com/JavoEstevez/An-lisis-de-Nodos-/blob/master/img/Cronograma.png)
 
 11. BIBLIOGRAFÍA 
 
